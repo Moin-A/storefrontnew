@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.DS_Store
+
+# Allow .env files to be copied to Docker image
+# !.env
+# !.env.local
+
